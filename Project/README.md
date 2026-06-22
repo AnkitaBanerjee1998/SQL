@@ -289,6 +289,11 @@ Through this project, I gained hands-on experience with:
 - Optimizing query readability and maintainability
 
 ---
+## How to access data
+
+Download the Schema_And_Data.sql file as it contains create statement, table data and schema structure.
+
+
 
 ## 👤 Author
 
